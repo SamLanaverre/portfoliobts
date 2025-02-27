@@ -12,7 +12,7 @@
             <header>
               <h2 class="tm-banner-title">Sam Lanaverre</h2>
               <p class="mx-auto tm-banner-subtitle">
-                Portfolio dans le cadre du BTS SIO TESTTTT
+                Portfolio dans le cadre du BTS SIO
               </p>
             </header>
           </div>
