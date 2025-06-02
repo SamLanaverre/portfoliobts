@@ -200,40 +200,11 @@
                 <p>
                   Phasellus suscipit sapien magna, vel dictum lorem fringilla.
                 </p>
-                <p>
-                  Class aptent taciti sociosqu ad litora torquent per conubia
-                  nostra.
-                </p>
-                <p>
-                  Nulla ornare ligula nibh, sit amet tristique magna efficitur
-                  eu.
-                </p>
-              </div>
-              <div
-                class="tab-pane fade"
-                id="mission"
-                role="tabpanel"
-                aria-labelledby="mission-tab"
-              >
-                <p>
-                  Class aptent taciti sociosqu ad litora torquent per conubia
-                  nostra.
-                </p>
-                <p>
-                  Nulla ornare ligula nibh, sit amet tristique magna efficitur
-                  eu.
-                </p>
-                <p>
-                  Phasellus suscipit sapien magna, vel dictum lorem fringilla.
-                </p>
-              </div>
             </div>
-          </div>
         </div>
-      </div>
-    </section> -->
+    </div>
+</div>
 
-    
     <!-- Contact -->
     <section class="container tm-contact-section" id="contact">
       <div class="row">
