@@ -1,4 +1,4 @@
-<?php include_once("partials/head.php") ?>
+<?php // Page supprimée à la demande de l'utilisateur. 
 
 <body>
 
@@ -456,5 +456,4 @@
 </body>
 
 <?php include_once("partials/footer.php")?>
-
-</html>
+

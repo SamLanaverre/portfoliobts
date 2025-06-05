@@ -1,4 +1,4 @@
-<footer class="container-fluid tm-footer bg-light py-4">
+<footer class="container-fluid tm-footer bg-light py-4 mt-auto">
     <div class="container">
         <div class="row">
             <!-- Section Contact -->
@@ -52,8 +52,24 @@
                 <p class="small mb-0">&copy; <?php echo date('Y'); ?> Sam Lanaverre - Tous droits réservés</p>
             </div>
             <div class="col-md-2 col-sm-12 scrolltop">
-                <div class="scroll icon"><i class="fa fa-2x fa-angle-up"></i></div>
+                <div class="scroll icon" style="cursor: pointer;"><i class="fa fa-2x fa-angle-up"></i></div>
             </div>
         </div>
     </div>
 </footer>
+<script>
+// Scroll to top button
+$(function() {
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 50) {
+            $('.scrolltop:hidden').stop(true, true).fadeIn();
+        } else {
+            $('.scrolltop').stop(true, true).fadeOut();
+        }
+    });
+    $('.scroll').click(function() {
+        $('html,body').animate({ scrollTop: 0 }, '1000');
+        return false;
+    });
+});
+</script>
