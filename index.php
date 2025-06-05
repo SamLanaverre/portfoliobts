@@ -12,8 +12,8 @@
           <div class="col-12 text-center">
             <header class="py-5">
               <div style="background:rgba(0,0,0,0.45);border-radius:16px;display:inline-block;padding:1.2rem 2.2rem;box-shadow:0 8px 32px rgba(0,0,0,0.4);">
-  <h2 class="tm-banner-title" style="font-size:2.8rem;font-weight:700;color:#FFFFFF;text-shadow:2px 2px 4px #000000;">Sam Lanaverre</h2>
-  <p class="mx-auto tm-banner-subtitle" style="font-size:1.5rem;color:#FFFFFF;text-shadow:1px 1px 3px #000000;">Portfolio</p>
+  <h2 class="tm-banner-title" style="font-size:2.8rem;font-weight:700;color:#FFFFFF !important;text-shadow:2px 2px 4px #000000;">Sam Lanaverre</h2>
+  <p class="mx-auto tm-banner-subtitle" style="font-size:1.5rem;color:#FFFFFF !important;text-shadow:1px 1px 3px #000000;">Portfolio</p>
 </div>
             </header>
           </div>
